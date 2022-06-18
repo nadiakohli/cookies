@@ -184,6 +184,7 @@ window.onload = () => {
         border: none;
         background-color: transparent;
         font-size: 11px;
+        cursor: pointer;
       `;
       const trashCanImg = document.createElement('img');
       trashCanImg.src = './icons/trash-can-solid.svg';
